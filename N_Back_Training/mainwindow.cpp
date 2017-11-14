@@ -22,3 +22,8 @@ void MainWindow::on_start_clicked()
     connect(timer, SIGNAL(timeout()), this, SLOT(update()));
     timer->start(questionTime);
 }
+
+void MainWindow::timeout()
+{
+
+}
