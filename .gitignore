@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Build Folder
+build-N_Back_Training-Desktop_Qt_5_8_0_GCC_64bit-Debug/

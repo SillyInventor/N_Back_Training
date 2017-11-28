@@ -17,6 +17,7 @@ public:
 
 private slots:
     void on_start_clicked();
+    void timeout();
 
 private:
     Ui::MainWindow *ui;
